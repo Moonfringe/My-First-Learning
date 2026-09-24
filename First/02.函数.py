@@ -1,12 +1,12 @@
-# def Triangle_area(l,h):
-#     """
-#     根据三角形的底和高，计算三角形的面积
-#     :param l: 底
-#     :param h: 稿
-#     :return: 三角形的面积
-#     """
-#     return (l * h)/2
-# print(Triangle_area(5,4))
+def Triangle_area(l,h):
+    """
+    根据三角形的底和高，计算三角形的面积
+    :param l: 底
+    :param h: 稿
+    :return: 三角形的面积
+    """
+    return (l * h)/2
+print(Triangle_area(5,4))
 
 def char_Vowel(char) ->int:
     """
